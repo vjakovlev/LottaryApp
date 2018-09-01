@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{731DB7FF-B5AE-4EB2-A44C-E40DA252D1EB}</ProjectGuid>
+    <ProjectGuid>{F5AEEA23-7C1E-4BFF-9C92-650E6E7E210D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Lottary.Web.Tests</RootNamespace>
@@ -63,9 +63,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Lottary.Web\Lottary.Web.csproj">
-      <Project>{79E59D2D-87D0-42A1-92EE-9892DBCBDB2C}</Project>
-      <Name>Lottary.Web</Name>
+    <ProjectReference Include="..\Lottary.Services\Lottary.Services.csproj">
+      <Project>{ebc88656-f1d9-4548-9b8b-413d81133b39}</Project>
+      <Name>Lottary.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lottary.ViewModel\Lottary.ViewModel.csproj">
+      <Project>{5a6af958-e1a5-4a6b-b3d0-604c3cf464a0}</Project>
+      <Name>Lottary.ViewModel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

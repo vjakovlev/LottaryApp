@@ -8,7 +8,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{79E59D2D-87D0-42A1-92EE-9892DBCBDB2C}</ProjectGuid>
+    <ProjectGuid>{AA336C9F-DE76-41D8-95D4-E74EB64ADE70}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -105,6 +105,16 @@
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lottary.Services\Lottary.Services.csproj">
+      <Project>{ebc88656-f1d9-4548-9b8b-413d81133b39}</Project>
+      <Name>Lottary.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lottary.ViewModel\Lottary.ViewModel.csproj">
+      <Project>{5a6af958-e1a5-4a6b-b3d0-604c3cf464a0}</Project>
+      <Name>Lottary.ViewModel</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -118,7 +128,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>62479</DevelopmentServerPort>
+          <DevelopmentServerPort>63092</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:62479/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

@@ -9,3 +9,15 @@ C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.DataModel\bin\Deb
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.DataModel\bin\Debug\EntityFramework.xml
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.DataModel\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.DataModel\obj\Debug\Lottary.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\bin\Debug\Lottary.DataModel.dll.config
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\bin\Debug\Lottary.DataModel.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\bin\Debug\Lottary.DataModel.pdb
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\obj\Debug\Lottary.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\obj\Debug\Lottary.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\obj\Debug\Lottary.DataModel.csproj.CopyComplete
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\obj\Debug\Lottary.DataModel.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.DataModel\obj\Debug\Lottary.DataModel.pdb

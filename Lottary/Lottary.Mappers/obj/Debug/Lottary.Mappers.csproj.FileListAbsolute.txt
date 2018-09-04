@@ -11,3 +11,17 @@ C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.Mappers\obj\Debug
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.Mappers\bin\Debug\EntityFramework.dll
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.Mappers\bin\Debug\Lottary.DataModel.dll.config
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.Mappers\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\Lottary.Mappers.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\Lottary.Mappers.pdb
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\Lottary.DataModel.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\Lottary.ViewModel.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\EntityFramework.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\Lottary.DataModel.pdb
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\Lottary.DataModel.dll.config
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\Lottary.ViewModel.pdb
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\obj\Debug\Lottary.Mappers.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\obj\Debug\Lottary.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\obj\Debug\Lottary.Mappers.csproj.CopyComplete
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\obj\Debug\Lottary.Mappers.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Mappers\obj\Debug\Lottary.Mappers.pdb

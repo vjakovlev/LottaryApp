@@ -4,3 +4,9 @@ C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.ViewModel\obj\Deb
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.ViewModel\obj\Debug\Lottary.ViewModel.csproj.CoreCompileInputs.cache
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.ViewModel\obj\Debug\Lottary.ViewModel.dll
 C:\Users\code\Desktop\ViktorJakovlevC#Advanced\Lottary\Lottary.ViewModel\obj\Debug\Lottary.ViewModel.pdb
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.ViewModel\bin\Debug\Lottary.ViewModel.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.ViewModel\bin\Debug\Lottary.ViewModel.pdb
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.ViewModel\obj\Debug\Lottary.ViewModel.csprojResolveAssemblyReference.cache
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.ViewModel\obj\Debug\Lottary.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.ViewModel\obj\Debug\Lottary.ViewModel.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.ViewModel\obj\Debug\Lottary.ViewModel.pdb

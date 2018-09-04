@@ -12,6 +12,7 @@ namespace Lottary.Web
         protected void Application_Start()
         {
             GlobalConfiguration.Configure(WebApiConfig.Register);
+            IoCConfig.Initialize(GlobalConfiguration.Configuration);
         }
     }
 }

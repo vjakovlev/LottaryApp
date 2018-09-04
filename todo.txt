@@ -1,1 +1,7 @@
 IEnumerable, Iqueryable, IList  - da se istrazat
+
+
+https://www.bookdepository.com/search?searchTerm=Martin+Fowler&search=Find+book
+
+
+autofak

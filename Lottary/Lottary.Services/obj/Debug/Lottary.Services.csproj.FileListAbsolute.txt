@@ -38,3 +38,5 @@ C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Servic
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Services\bin\Debug\Lottary.Services.dll.config
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Services\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Services\bin\Debug\Autofac.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Services\bin\Debug\Autofac.xml

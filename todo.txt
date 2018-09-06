@@ -5,3 +5,9 @@ https://www.bookdepository.com/search?searchTerm=Martin+Fowler&search=Find+book
 
 
 autofak
+
+
+
+extension metoda
+
+windows credentials

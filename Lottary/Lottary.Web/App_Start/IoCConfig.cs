@@ -32,6 +32,8 @@ namespace Lottary.Web
                 .As<IlottaryService>()
                 .InstancePerRequest();
 
+            builder.RegisterModule(new ServiceModule());
+
             return builder.Build();
         }
     }

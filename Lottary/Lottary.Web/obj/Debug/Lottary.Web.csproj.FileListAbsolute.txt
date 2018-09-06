@@ -37,3 +37,7 @@ C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bi
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bin\Autofac.xml
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bin\Autofac.Integration.WebApi.pdb
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bin\Lottary.Mappers.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bin\Lottary.Mappers.pdb
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web\bin\EntityFramework.SqlServer.xml

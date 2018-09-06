@@ -42,3 +42,7 @@ C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Te
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Tests\bin\Debug\Lottary.DataModel.pdb
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Tests\bin\Debug\Lottary.DataModel.dll.config
 C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Tests\bin\Debug\Autofac.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Tests\bin\Debug\Lottary.Mappers.dll
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Tests\bin\Debug\Autofac.xml
+C:\Users\code\Desktop\ViktorJakovlevAdvancedC#\LottaryApp\Lottary\Lottary.Web.Tests\bin\Debug\Lottary.Mappers.pdb

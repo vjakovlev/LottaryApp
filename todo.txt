@@ -11,3 +11,5 @@ autofak
 extension metoda
 
 windows credentials
+
+test 
